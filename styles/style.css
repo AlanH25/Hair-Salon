@@ -1,0 +1,140 @@
+/* Style sheet
+   color picker www.w3schools.com/colors/colors_picker.asp
+*/
+
+/* Bootstrap default font-family is Helvetica Neue */
+
+html{
+	scroll-behavior: smooth;
+}
+
+h1 {
+  font-family: "Cinzel", serif;
+  font-weight:400;
+  padding-left:7%;
+  
+}
+
+h4 {
+  font-family: "Cinzel", serif;
+  font-weight:400;
+   padding-left:1px;
+  font-size:20px;
+  
+}
+
+h2 {
+	font-family: 'Varela Round', sans-serif;
+    font-size: 30px;
+}
+h3 {
+  font-family: "Cinzel", serif;
+  font-weight:400;
+  font-size:40px;
+  
+}
+
+img.nice {
+    width: 80px;
+    height: 45px;
+    float: left;
+    display: inline-block
+}
+img.hair-girl {
+    width: 500px;
+    height: 275px;
+    float: right;
+    display: inline-block;
+    border-radius: 10px;
+}
+img.service-preview {
+    width: 350px;
+    height: 200px;
+    display: inline-block;
+    border-radius: 5px;
+}
+
+
+
+
+p{
+	font-family: 'Varela Round', sans-serif;
+    font-size: 15px;
+}
+
+body {
+  background-color: #e4dfda;
+  
+}
+.container-fluid {
+	background-color:#1D0736 ;
+	color: white;
+}
+
+.container-fluid2{
+	background-color:#d0ac76 ;
+	color: white;
+}
+
+.container-md{
+	background-color: #d0ac76;
+}
+
+.table {
+	border:2px solid #9C4449;
+	background-color:#270A48;
+	color: black;
+}
+
+
+.table.table-bordered > thead > tr > td{
+    border:4px solid d0ac76;
+}
+
+.table-hover{
+		border:1px solid #d0ac76;
+	background-color:#f1f1f1;
+	color: black;
+}
+
+.table2 {
+	border:#270A48;
+	background-color:#e4dfda;
+	color: #270A48;
+}
+
+
+
+.card{
+
+}
+.row1{padding-top:20px;
+	background-color:#d0ac76;
+
+	padding-left:150px;
+	padding-top:20px;
+	padding-bottom:20px;
+}
+
+
+a {
+	  color: black;
+    font-size: 15px;
+    font-family: 'Varela Round',sans-serif;
+	-webkit-transition: 1s;
+    transition: 0.3s;
+
+}
+
+ a:hover {
+    color: white;
+    -webkit-transition: 1s;
+    transition: 0.3s;
+}
+
+.heading{
+	background-color:#d0ac76;
+}
+.row{
+	
+}
